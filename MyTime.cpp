@@ -28,6 +28,7 @@ public:
         cout<<mins<< ' ';
         string am_pm = pm ? "p.m." : "a.m.";
     }
+
 };
 class time24
 {
